@@ -1,0 +1,8 @@
+body { margin: 0; background: #111; color: #e8e8e8; font: 16px/1.65 -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 40px 20px 64px; }
+h1 { color: #D6FF3F; font-size: 28px; margin: 0 0 8px; }
+h2 { font-size: 19px; margin: 28px 0 8px; }
+a { color: #D6FF3F; }
+.date { color: #999; margin-top: 0; }
+hr { border: 0; border-top: 1px solid #333; margin: 48px 0; }
+.back { margin-top: 40px; }
